@@ -1,29 +1,18 @@
 {
-    "name": "simple-weather-fx",
     "id": "simple-weather-fx",
     "title": "Simple Weather FX",
-    "description": "Weather effects for Foundry VTT with a homebrew for D&D 5e",
-    "version": "1.0.0",
-    "library": "false",
-    "manifestPlusVersion": "1.2.0",
-    "minimumCoreVersion": "12",
-    "compatibleCoreVersion": "12",
+    "description": "",
     "compatibility": {
-        "minimum": "12",
-        "verified": "12"
-    },
-    "authors": [
-    ],
-    "relationships": {
+        "minimum": "10",
+        "verified": "12.331"
     },
     "esmodules": [
-        "scripts/main.js"
-    ],
-    "scripts": [
+        "scripts/index.js"
     ],
     "styles": [
-        "styles/module.css"
+        "styles/simple-weather.css"
     ],
+    "packs": [],
     "languages": [
         {
             "lang": "en",
@@ -31,12 +20,21 @@
             "path": "lang/en.json"
         }
     ],
-    "socket": true,
-    "url": "",
-    "manifest": "",
+    "authors": [
+        {
+            "name": "Armando Serrado",
+            "#discord": "",
+            "#email": "",
+            "#url": ""
+        }
+    ],
+    "url": "https://github.com/ArmandoSerrado/Simple-Weather-FX",
+    "manifest": "https://github.com/ArmandoSerrado/Simple-Weather-FX/blob/main/module.json",
     "download": "",
+    "## version": "",
     "license": "",
-    "readme": "",
+    "readme": "https://github.com/ArmandoSerrado/Simple-Weather-FX/blob/main/README.md",
     "bugs": "",
-    "media": []
+    "changelog": "",
+    "version": "0.0"
 }
