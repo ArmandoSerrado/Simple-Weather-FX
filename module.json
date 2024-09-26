@@ -1,0 +1,42 @@
+{
+    "name": "simple-weather-fx",
+    "id": "simple-weather-fx",
+    "title": "Simple Weather FX",
+    "description": "Weather effects for Foundry VTT with a homebrew for D&D 5e",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.2.0",
+    "minimumCoreVersion": "12",
+    "compatibleCoreVersion": "12",
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12"
+    },
+    "authors": [
+    ],
+    "relationships": {
+    },
+    "esmodules": [
+        "scripts/main.js"
+    ],
+    "scripts": [
+    ],
+    "styles": [
+        "styles/module.css"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "socket": true,
+    "url": "",
+    "manifest": "",
+    "download": "",
+    "license": "",
+    "readme": "",
+    "bugs": "",
+    "media": []
+}
